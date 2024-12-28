@@ -1,0 +1,6 @@
+name: Vividus Hotels
+facilities: Eventroom,swimmingpool,wifi,TV
+price: 4630
+Address:  Vividus Hotels, Kumarakrupa Rd, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001
+contact: 096060 64644
+ratings: 4.3
