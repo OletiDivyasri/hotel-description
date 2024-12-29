@@ -1,0 +1,6 @@
+name: Hotel Sharada
+facilities: Eventroom,swimmingpool,wifi
+price: 19615
+Address: 25/3, Kempegowda Road, K.G Circle,Majestic, Bengaluru, Karnataka 560009
+contact:  080-22201044
+ratings: 4.7

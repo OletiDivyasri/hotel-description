@@ -1,0 +1,6 @@
+name: Taj Santacruz
+facilities: Eventroom,swimmingpool,wifi
+price: 11699
+Address: Chhatrapati Shivaji Maharaj International Airport Mumbai, T1, off Western Express Highway, Navpada, Vile Parle East, Santacruz East, Mumbai, Maharashtra 400099
+contact: 022 6211 5211
+ratings: 4.6

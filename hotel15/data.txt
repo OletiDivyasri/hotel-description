@@ -1,0 +1,6 @@
+name: Park Avenue Hotel, Chennai
+facilities: Eventroom,swimmingpool,wifi
+price: 3920
+Address: Nungambakkam High Road, Block Z, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034
+contact: 044 2827 5555
+ratings: 4.1

@@ -1,0 +1,6 @@
+name: ITC Gardenia, a Luxury Collection Hotel
+facilities: Eventroom,swimmingpool,wifi
+price: 19615
+Address: #20 of 1,145 hotels in Bengaluru, No 1 Residency Road, Bengaluru 560025 India
+contact: 080 2211 9898
+ratings: 4.7

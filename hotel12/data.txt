@@ -1,0 +1,6 @@
+name: Ambassador Pallava Hotel Chennai
+facilities: Eventroom,swimmingpool,wifi
+price: 5702
+Address:  Red Cross Rd, Egmore, Chennai, Tamil Nadu 600008
+contact:  044 2855 4476
+ratings: 4.1

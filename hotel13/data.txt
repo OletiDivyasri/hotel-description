@@ -1,0 +1,6 @@
+name: Taz Kamar Family Hotel
+facilities: Eventroom,swimmingpool,wifi
+price: 4239
+Address:  Rangan St, Thiyagaraya Nagar, Chennai, Tamil Nadu, T - Nagar, 600017 Chennai, India
+contact: 044 2434 2290
+ratings: 4.0

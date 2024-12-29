@@ -1,0 +1,6 @@
+name: Orion Residency
+facilities: Eventroom,swimmingpool,wifi
+price: 1708
+Address: Rama Pillai St, Periamet, Park Town, Chennai, Tamil Nadu 600003
+contact: 098843 26313
+ratings: 3.8

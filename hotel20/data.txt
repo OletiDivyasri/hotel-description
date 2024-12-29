@@ -1,0 +1,6 @@
+name: Residency Hotel Fort, Mumbai
+facilities: Eventroom,swimmingpool,wifi
+price: 8610
+Address: Rustom Sidhwa Marg, Dr Dadabhai Naoroji Rd, Opp Citibank, Fort, Mumbai, Maharashtra 400001
+contact: 022 6667 0555
+ratings: 4.2

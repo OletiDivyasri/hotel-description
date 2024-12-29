@@ -1,0 +1,6 @@
+name: Hanu Reddy Residences - SPP Gardens
+facilities: Eventroom,swimmingpool,wifi
+price: 6170
+Address: Poes Garden No. 41/19, Poes Garden, Chennai 600086, India 
+contact: +91 73057 35555 
+ratings: 4.0

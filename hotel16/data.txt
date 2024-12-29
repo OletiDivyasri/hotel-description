@@ -1,0 +1,6 @@
+name: Hotel Park Plaza
+facilities: Eventroom,swimmingpool,wifi
+price: 3644
+Address: Whannels Rd, Ansari Estate, Egmore, Chennai, Tamil Nadu 600008
+contact: 044 4001 1111
+ratings: 4.0

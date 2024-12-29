@@ -1,0 +1,6 @@
+name: Ramada by Wyndham Chennai Egmore
+facilities: Eventroom,swimmingpool,wifi
+price: 9094
+Address: Gandhi Irwin Rd, Ansari Estate, Egmore, Chennai, Tamil Nadu 600008
+contact: 044 4610 4777
+ratings: 4.1
